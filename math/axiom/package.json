@@ -1,0 +1,11 @@
+
+{
+ 
+    "scripts": {
+     
+      
+      "build": "gitbook build ./ O:/OneDrive/Git/github2.book/math/axiom"
+      
+      
+    }
+}

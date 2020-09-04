@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="404mm"
+   height="147mm"
+   viewBox="0 0 404 147"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="d-move.svg">
+  <defs
+     id="defs2">
+    <marker
+       markerUnits="strokeWidth"
+       orient="auto"
+       refY="3.5"
+       refX="5"
+       markerHeight="7"
+       markerWidth="15"
+       id="arrow">
+      <path
+         id="path10"
+         fill="context-stroke"
+         stroke="context-stroke"
+         d="M 0,0 15,3.5 0,7 Z" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="814.90818"
+     inkscape:cy="470.57721"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     width="45mm"
+     inkscape:window-width="1898"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="font-size:3.88px;fill:#000000;stroke:none;stroke-width:0.3"
+       id="g185"
+       transform="translate(55.006,17.523505)">
+      <g
+         id="img-8dabffde-1"
+         stroke="#000000"
+         stroke-width="1">
+        <g
+           id="g17"
+           transform="translate(290,50)">
+          <path
+             id="path15"
+             class="primitive"
+             d="M 0,-50 V 50"
+             fill="none" />
+        </g>
+        <g
+           id="img-8dabffde-2"
+           stroke="#008000"
+           stroke-width="1">
+          <g
+             id="g21"
+             transform="translate(245,80)">
+            <path
+               id="path19"
+               class="primitive"
+               d="M -5,0 H 5"
+               fill="none" />
+          </g>
+          <g
+             id="g25"
+             transform="translate(250,45)">
+            <path
+               id="path23"
+               class="primitive"
+               d="M 0,35 V -35"
+               fill="none" />
+          </g>
+          <g
+             id="g29"
+             transform="translate(265,10)">
+            <path
+               id="path27"
+               class="primitive"
+               d="M -15,0 H 15"
+               fill="none" />
+          </g>
+          <g
+             id="g33"
+             transform="translate(305,10)">
+            <path
+               id="path31"
+               class="primitive"
+               d="M -25,0 H 25"
+               fill="none" />
+          </g>
+          <g
+             id="g37"
+             transform="translate(330,45)">
+            <path
+               id="path35"
+               class="primitive"
+               d="M 0,-35 V 35"
+               fill="none" />
+          </g>
+          <g
+             id="g41"
+             transform="translate(335,80)">
+            <path
+               id="path39"
+               class="primitive"
+               d="M -5,0 H 5"
+               fill="none" />
+          </g>
+        </g>
+        <g
+           id="img-8dabffde-3"
+           stroke="#0000ff"
+           stroke-width="1">
+          <g
+             id="g46"
+             transform="translate(290,20)">
+            <path
+               id="path44"
+               class="primitive"
+               d="M -50,0 H 50"
+               fill="none" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="img-8dabffde-4"
+         stroke="#000000"
+         stroke-width="1">
+        <g
+           id="g52"
+           transform="translate(170,50)">
+          <path
+             id="path50"
+             class="primitive"
+             d="M 0,-50 V 50"
+             fill="none" />
+        </g>
+        <g
+           id="img-8dabffde-5"
+           stroke="#008000"
+           stroke-width="1">
+          <g
+             id="g56"
+             transform="translate(125,80)">
+            <path
+               id="path54"
+               class="primitive"
+               d="M -5,0 H 5"
+               fill="none" />
+          </g>
+          <g
+             id="g60"
+             transform="translate(130,45)">
+            <path
+               id="path58"
+               class="primitive"
+               d="M 0,35 V -35"
+               fill="none" />
+          </g>
+          <g
+             id="g64"
+             transform="translate(145,10)">
+            <path
+               id="path62"
+               class="primitive"
+               d="M -15,0 H 15"
+               fill="none" />
+          </g>
+          <g
+             id="g68"
+             transform="translate(160,45)">
+            <path
+               id="path66"
+               class="primitive"
+               d="M 0,-35 V 35"
+               fill="none" />
+          </g>
+          <g
+             id="g72"
+             transform="translate(185,80)">
+            <path
+               id="path70"
+               class="primitive"
+               d="M -25,0 H 25"
+               fill="none" />
+          </g>
+          <g
+             id="g76"
+             transform="translate(215,80)">
+            <path
+               id="path74"
+               class="primitive"
+               d="M -5,0 H 5"
+               fill="none" />
+          </g>
+        </g>
+        <g
+           id="img-8dabffde-6"
+           stroke="#0000ff"
+           stroke-width="1">
+          <g
+             id="g81"
+             transform="translate(170,20)">
+            <path
+               id="path79"
+               class="primitive"
+               d="M -50,0 H 50"
+               fill="none" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="img-8dabffde-7"
+         stroke="#000000"
+         stroke-width="1">
+        <g
+           id="g87"
+           transform="translate(50,50)">
+          <path
+             id="path85"
+             class="primitive"
+             d="M 0,-50 V 50"
+             fill="none" />
+        </g>
+        <g
+           id="img-8dabffde-8"
+           stroke="#008000"
+           stroke-width="1">
+          <g
+             id="g91"
+             transform="translate(5,80)">
+            <path
+               id="path89"
+               class="primitive"
+               d="M -5,0 H 5"
+               fill="none" />
+          </g>
+          <g
+             id="g95"
+             transform="translate(10,80)">
+            <path
+               id="path93"
+               class="primitive"
+               d="M 0,0 V 0"
+               fill="none" />
+          </g>
+          <g
+             id="g99"
+             transform="translate(25,80)">
+            <path
+               id="path97"
+               class="primitive"
+               d="M -15,0 H 15"
+               fill="none" />
+          </g>
+          <g
+             id="g103"
+             transform="translate(40,80)">
+            <path
+               id="path101"
+               class="primitive"
+               d="M 0,0 V 0"
+               fill="none" />
+          </g>
+          <g
+             id="g107"
+             transform="translate(65,80)">
+            <path
+               id="path105"
+               class="primitive"
+               d="M -25,0 H 25"
+               fill="none" />
+          </g>
+          <g
+             id="g111"
+             transform="translate(95,80)">
+            <path
+               id="path109"
+               class="primitive"
+               d="M -5,0 H 5"
+               fill="none" />
+          </g>
+        </g>
+        <g
+           id="img-8dabffde-9"
+           stroke="#0000ff"
+           stroke-width="1">
+          <g
+             id="g116"
+             transform="translate(50,20)">
+            <path
+               id="path114"
+               class="primitive"
+               d="M -50,0 H 50"
+               fill="none" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.206458"
+       id="rect196"
+       width="8.7429981"
+       height="3.9400001"
+       x="3.2072341"
+       y="92.710289" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="14.967092"
+       y="96.446693"
+       id="text200"><tspan
+         sodipodi:role="line"
+         id="tspan198"
+         x="14.967092"
+         y="96.446693"
+         style="font-size:8.46667px;stroke-width:0.264583">Mover</tspan></text>
+    <rect
+       y="33.803493"
+       x="2.3233876"
+       height="4.04"
+       width="8.7429981"
+       id="rect196-4"
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.209062" />
+    <text
+       id="text200-4"
+       y="37.539906"
+       x="14.083245"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:8.46667px;stroke-width:0.264583"
+         y="37.539906"
+         x="14.083245"
+         id="tspan198-3"
+         sodipodi:role="line">Target</tspan></text>
+    <path
+       id="path2"
+       d="m 109.56796,68.377316 v -4.324374 h -2.7968 l 3.53798,-2.594626 3.45402,2.594626 h -2.7968 v 4.324374 z"
+       style="stroke-width:1.09971" />
+    <path
+       style="stroke-width:1.09971"
+       d="m 229.56387,67.888332 v -4.324374 h -2.7968 l 3.53798,-2.594626 3.45402,2.594626 h -2.7968 v 4.324374 z"
+       id="path2-3" />
+    <path
+       style="stroke-width:1.09971"
+       d="m 349.64692,68.046332 v -4.324374 h -2.7968 l 3.53798,-2.594626 3.45402,2.594626 h -2.7968 v 4.324374 z"
+       id="path2-8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="104.12726"
+       y="138.78162"
+       id="text284"><tspan
+         sodipodi:role="line"
+         id="tspan282"
+         x="104.12726"
+         y="138.78162"
+         style="font-size:8.46667px;stroke-width:0.264583">t = 0</tspan><tspan
+         sodipodi:role="line"
+         x="104.12726"
+         y="149.36496"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         id="tspan286" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="343.64371"
+       y="138.71025"
+       id="text315"><tspan
+         sodipodi:role="line"
+         id="tspan313"
+         x="343.64371"
+         y="138.71025"
+         style="font-size:8.46667px;stroke-width:0.264583">t = 1</tspan><tspan
+         sodipodi:role="line"
+         x="343.64371"
+         y="149.29359"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         id="tspan340" /></text>
+    <text
+       id="text284-5"
+       y="138.75812"
+       x="205.20946"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:8.46667px;stroke-width:0.264583"
+         y="138.75812"
+         x="205.20946"
+         id="tspan282-9"
+         sodipodi:role="line">0 &lt; t &lt; 1</tspan><tspan
+         style="font-size:8.46667px;stroke-width:0.264583"
+         y="149.34146"
+         x="205.20946"
+         sodipodi:role="line"
+         id="tspan338" /><tspan
+         id="tspan286-6"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         y="159.92479"
+         x="205.20946"
+         sodipodi:role="line" /></text>
+    <text
+       id="text23"
+       y="15.704393"
+       x="185.17497"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.525278"
+       xml:space="preserve"
+       transform="scale(1.0111853,0.98893842)"><tspan
+         y="15.704393"
+         x="185.17497"
+         id="tspan21"
+         sodipodi:role="line"
+         style="font-size:8.46667px;stroke-width:0.525278">	Ω </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="198.75255"
+       y="15.804151"
+       id="text379"><tspan
+         sodipodi:role="line"
+         id="tspan377"
+         x="198.75255"
+         y="15.804151"
+         style="font-size:7.05556px;stroke-width:0.264583">2</tspan></text>
+    <text
+       transform="scale(1.0111853,0.98893842)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.525277"
+       x="350.91681"
+       y="15.72986"
+       id="text23-0"><tspan
+         style="font-size:8.46667px;stroke-width:0.525277"
+         sodipodi:role="line"
+         id="tspan21-7"
+         x="350.91681"
+         y="15.72986">	Ω </tspan></text>
+    <text
+       id="text379-3"
+       y="16.128994"
+       x="366.34805"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:7.05556px;stroke-width:0.264583"
+         y="16.128994"
+         x="366.34805"
+         id="tspan377-4"
+         sodipodi:role="line">3</tspan></text>
+    <g
+       transform="translate(55.006,17.523505)"
+       id="g1365"
+       style="font-size:3.88px;fill:#000000;stroke:none;stroke-width:0.3">
+      <g
+         stroke-width="1"
+         stroke="#000000"
+         id="g1287">
+        <g
+           transform="translate(290,50)"
+           id="g1253">
+          <path
+             fill="none"
+             d="M 0,-50 V 50"
+             class="primitive"
+             id="path1251" />
+        </g>
+        <g
+           stroke-width="1"
+           stroke="#008000"
+           id="g1279">
+          <g
+             transform="translate(245,80)"
+             id="g1257">
+            <path
+               fill="none"
+               d="M -5,0 H 5"
+               class="primitive"
+               id="path1255" />
+          </g>
+          <g
+             transform="translate(250,45)"
+             id="g1261">
+            <path
+               fill="none"
+               d="M 0,35 V -35"
+               class="primitive"
+               id="path1259" />
+          </g>
+          <g
+             transform="translate(265,10)"
+             id="g1265">
+            <path
+               fill="none"
+               d="M -15,0 H 15"
+               class="primitive"
+               id="path1263" />
+          </g>
+          <g
+             transform="translate(305,10)"
+             id="g1269">
+            <path
+               fill="none"
+               d="M -25,0 H 25"
+               class="primitive"
+               id="path1267" />
+          </g>
+          <g
+             transform="translate(330,45)"
+             id="g1273">
+            <path
+               fill="none"
+               d="M 0,-35 V 35"
+               class="primitive"
+               id="path1271" />
+          </g>
+          <g
+             transform="translate(335,80)"
+             id="g1277">
+            <path
+               fill="none"
+               d="M -5,0 H 5"
+               class="primitive"
+               id="path1275" />
+          </g>
+        </g>
+        <g
+           stroke-width="1"
+           stroke="#0000ff"
+           id="g1285">
+          <g
+             transform="translate(290,20)"
+             id="g1283">
+            <path
+               fill="none"
+               d="M -50,0 H 50"
+               class="primitive"
+               id="path1281" />
+          </g>
+        </g>
+      </g>
+      <g
+         stroke-width="1"
+         stroke="#000000"
+         id="g1325">
+        <g
+           transform="translate(170,50)"
+           id="g1291">
+          <path
+             fill="none"
+             d="M 0,-50 V 50"
+             class="primitive"
+             id="path1289" />
+        </g>
+        <g
+           stroke-width="1"
+           stroke="#008000"
+           id="g1317">
+          <g
+             transform="translate(125,80)"
+             id="g1295">
+            <path
+               fill="none"
+               d="M -5,0 H 5"
+               class="primitive"
+               id="path1293" />
+          </g>
+          <g
+             transform="translate(130,45)"
+             id="g1299">
+            <path
+               fill="none"
+               d="M 0,35 V -35"
+               class="primitive"
+               id="path1297" />
+          </g>
+          <g
+             transform="translate(145,10)"
+             id="g1303">
+            <path
+               fill="none"
+               d="M -15,0 H 15"
+               class="primitive"
+               id="path1301" />
+          </g>
+          <g
+             transform="translate(160,45)"
+             id="g1307">
+            <path
+               fill="none"
+               d="M 0,-35 V 35"
+               class="primitive"
+               id="path1305" />
+          </g>
+          <g
+             transform="translate(185,80)"
+             id="g1311">
+            <path
+               fill="none"
+               d="M -25,0 H 25"
+               class="primitive"
+               id="path1309" />
+          </g>
+          <g
+             transform="translate(215,80)"
+             id="g1315">
+            <path
+               fill="none"
+               d="M -5,0 H 5"
+               class="primitive"
+               id="path1313" />
+          </g>
+        </g>
+        <g
+           stroke-width="1"
+           stroke="#0000ff"
+           id="g1323">
+          <g
+             transform="translate(170,20)"
+             id="g1321">
+            <path
+               fill="none"
+               d="M -50,0 H 50"
+               class="primitive"
+               id="path1319" />
+          </g>
+        </g>
+      </g>
+      <g
+         stroke-width="1"
+         stroke="#000000"
+         id="g1363">
+        <g
+           transform="translate(50,50)"
+           id="g1329">
+          <path
+             fill="none"
+             d="M 0,-50 V 50"
+             class="primitive"
+             id="path1327" />
+        </g>
+        <g
+           stroke-width="1"
+           stroke="#008000"
+           id="g1355">
+          <g
+             transform="translate(5,80)"
+             id="g1333">
+            <path
+               fill="none"
+               d="M -5,0 H 5"
+               class="primitive"
+               id="path1331" />
+          </g>
+          <g
+             transform="translate(10,80)"
+             id="g1337">
+            <path
+               fill="none"
+               d="M 0,0 V 0"
+               class="primitive"
+               id="path1335" />
+          </g>
+          <g
+             transform="translate(25,80)"
+             id="g1341">
+            <path
+               fill="none"
+               d="M -15,0 H 15"
+               class="primitive"
+               id="path1339" />
+          </g>
+          <g
+             transform="translate(40,80)"
+             id="g1345">
+            <path
+               fill="none"
+               d="M 0,0 V 0"
+               class="primitive"
+               id="path1343" />
+          </g>
+          <g
+             transform="translate(65,80)"
+             id="g1349">
+            <path
+               fill="none"
+               d="M -25,0 H 25"
+               class="primitive"
+               id="path1347" />
+          </g>
+          <g
+             transform="translate(95,80)"
+             id="g1353">
+            <path
+               fill="none"
+               d="M -5,0 H 5"
+               class="primitive"
+               id="path1351" />
+          </g>
+        </g>
+        <g
+           stroke-width="1"
+           stroke="#0000ff"
+           id="g1361">
+          <g
+             transform="translate(50,20)"
+             id="g1359">
+            <path
+               fill="none"
+               d="M -50,0 H 50"
+               class="primitive"
+               id="path1357" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

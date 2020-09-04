@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="drive.svg"
+   id="svg42"
+   font-size="3.88px"
+   stroke-width="0.3"
+   fill="#000000"
+   stroke="none"
+   viewBox="0 0 310 123"
+   height="123mm"
+   width="310mm"
+   version="1.2">
+  <metadata
+     id="metadata46">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg42"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:cy="287.68913"
+     inkscape:cx="602.88102"
+     inkscape:zoom="0.91725417"
+     showgrid="false"
+     id="namedview44"
+     inkscape:window-height="990"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs5">
+    <marker
+       markerUnits="strokeWidth"
+       orient="auto"
+       refY="3.5"
+       refX="5"
+       markerHeight="7"
+       markerWidth="15"
+       id="arrow">
+      <path
+         id="path2"
+         fill="context-stroke"
+         stroke="context-stroke"
+         d="M 0,0 15,3.5 0,7 Z" />
+    </marker>
+  </defs>
+  <g
+     transform="matrix(0,1,-2.7430781,0,165.48846,54.232194)"
+     id="g9"
+     style="stroke:#000000;stroke-width:1">
+    <path
+       fill="none"
+       d="M 0,-50 V 50"
+       class="primitive"
+       id="path7" />
+  </g>
+  <g
+     transform="rotate(90,182.05136,-53.716559)"
+     stroke-width="1"
+     stroke="#008000"
+     id="img-8dabffde-2">
+    <g
+       transform="translate(245,80)"
+       id="g13">
+      <path
+         fill="none"
+         d="M -5,0 H 5"
+         class="primitive"
+         id="path11" />
+    </g>
+    <g
+       transform="translate(250,45)"
+       id="g17">
+      <path
+         fill="none"
+         d="M 0,35 V -35"
+         class="primitive"
+         id="path15" />
+    </g>
+    <g
+       transform="translate(265,10)"
+       id="g21">
+      <path
+         fill="none"
+         d="M -15,0 H 15"
+         class="primitive"
+         id="path19" />
+    </g>
+    <g
+       transform="translate(305,10)"
+       id="g25">
+      <path
+         fill="none"
+         d="M -25,0 H 25"
+         class="primitive"
+         id="path23" />
+    </g>
+    <g
+       transform="translate(330,45)"
+       id="g29">
+      <path
+         fill="none"
+         d="M 0,-35 V 35"
+         class="primitive"
+         id="path27" />
+    </g>
+    <g
+       transform="translate(335,80)"
+       id="g33">
+      <path
+         fill="none"
+         d="M -5,0 H 5"
+         class="primitive"
+         id="path31" />
+    </g>
+  </g>
+  <g
+     transform="rotate(90,182.05136,-53.716559)"
+     stroke-width="1"
+     stroke="#0000ff"
+     id="img-8dabffde-3">
+    <g
+       transform="translate(290,20)"
+       id="g38">
+      <path
+         fill="none"
+         d="M -50,0 H 50"
+         class="primitive"
+         id="path36" />
+    </g>
+  </g>
+  <g
+     id="img-8dabffde-3-7"
+     stroke="#0000ff"
+     stroke-width="1"
+     transform="rotate(90,219.51573,-16.269643)">
+    <g
+       id="g38-3"
+       transform="translate(290,20)">
+      <path
+         id="path36-3"
+         class="primitive"
+         d="M -50,0 H 50"
+         fill="none" />
+    </g>
+  </g>
+  <g
+     id="img-8dabffde-3-9"
+     stroke="#0000ff"
+     stroke-width="1"
+     transform="rotate(90,260.63737,24.873236)">
+    <g
+       id="g38-7"
+       transform="translate(290,20)">
+      <path
+         id="path36-6"
+         class="primitive"
+         d="M -50,0 H 50"
+         fill="none" />
+    </g>
+  </g>
+  <text
+     id="text120"
+     y="115.86407"
+     x="87.535851"
+     style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.079375"
+     xml:space="preserve"><tspan
+       style="font-size:8.46667px;stroke-width:0.079375"
+       y="115.86407"
+       x="87.535851"
+       id="tspan118"
+       sodipodi:role="line">1st target </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.079375"
+     x="161.62761"
+     y="116.32368"
+     id="text120-5"><tspan
+       sodipodi:role="line"
+       id="tspan118-2"
+       x="161.62761"
+       y="116.32368"
+       style="font-size:8.46667px;stroke-width:0.079375">2nd target </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.079375"
+     x="244.70157"
+     y="115.45839"
+     id="text120-1"><tspan
+       sodipodi:role="line"
+       id="tspan118-8"
+       x="244.70157"
+       y="115.45839"
+       style="font-size:8.46667px;stroke-width:0.079375">3rd target </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.079375"
+     x="5.4776454"
+     y="115.36752"
+     id="text120-50"><tspan
+       sodipodi:role="line"
+       id="tspan118-3"
+       x="5.4776454"
+       y="115.36752"
+       style="font-size:8.46667px;stroke-width:0.079375">common mover</tspan></text>
+  <path
+     id="path2-3"
+     d="m 63.307855,47.98915 h 4.32437 v -2.7968 l 2.59463,3.53798 -2.59463,3.45402 v -2.7968 h -4.32437 z"
+     style="stroke-width:1.09971" />
+</svg>
