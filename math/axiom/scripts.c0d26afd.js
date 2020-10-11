@@ -17,4 +17,4 @@ module.exports=function(t){return fetch(t).then(function(t){return t.text()})};
 },{}],0:[function(require,module,exports) {
 var b=require("Cm3W");b.register("html",require("Yk8p"));b.load([["Library.0beaf390.html","IoSL"],["axiom.cdfd8f0a.html","dw43"],["menu.fa1192c7.html","v442"]]).then(function(){require("KqmS");});
 },{}]},{},[0], null)
-//# sourceMappingURL=https://bayship-org.github.io/gitWeb/scripts.c0d26afd.js.map
+//# sourceMappingURL=https://bayship-org.github.io/gitWeb/math/axiom/scripts.c0d26afd.js.map
